@@ -1,0 +1,4 @@
+#Mon Dec 25 17:03:41 CST 2017
+base.0=F\:\\workspace\\android\\VipVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\workspace\\android\\VipVideo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

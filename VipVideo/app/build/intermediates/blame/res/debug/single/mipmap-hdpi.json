@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\workspace\\android\\VipVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\start.png",
+        "source": "F:\\workspace\\android\\VipVideo\\app\\src\\main\\res\\mipmap-hdpi\\start.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\VipVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "F:\\workspace\\android\\VipVideo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\android\\VipVideo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "F:\\workspace\\android\\VipVideo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

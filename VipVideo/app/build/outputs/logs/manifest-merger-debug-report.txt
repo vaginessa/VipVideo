@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:7:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b283e4f4afa67c8ff64c7523686604135e9b45d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\888bb18452b3804033b31c51c5ef7eec0f29dde9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6d45ca267b95a41ff8b1773e9b4db9d4e277e7df\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6499ba834e738e396b5147e74e002b8091677716\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\450747da1781bbc594386b9fd68121ce49dc492f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\57c882e781de836b7691d5dfaea26a1d8c18bb1d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d779353ba78a2f3617143efb34dc37343f32a474\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d540a212a5e98db990cb1278001ff48a8802bad\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\51a61c88b0a4abe2a179b73930e05a06ed607588\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:11:9-42
+	android:allowBackup
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:9:9-37
+	android:theme
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.yangyouwang.activity.StartActivity
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.yangyouwang.activity.MainActivity
+ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:21:9-22:49
+	android:hardwareAccelerated
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b283e4f4afa67c8ff64c7523686604135e9b45d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\888bb18452b3804033b31c51c5ef7eec0f29dde9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6d45ca267b95a41ff8b1773e9b4db9d4e277e7df\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6499ba834e738e396b5147e74e002b8091677716\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\450747da1781bbc594386b9fd68121ce49dc492f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\57c882e781de836b7691d5dfaea26a1d8c18bb1d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d779353ba78a2f3617143efb34dc37343f32a474\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d540a212a5e98db990cb1278001ff48a8802bad\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\51a61c88b0a4abe2a179b73930e05a06ed607588\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\android\VipVideo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\b283e4f4afa67c8ff64c7523686604135e9b45d6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\888bb18452b3804033b31c51c5ef7eec0f29dde9\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6d45ca267b95a41ff8b1773e9b4db9d4e277e7df\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6499ba834e738e396b5147e74e002b8091677716\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\450747da1781bbc594386b9fd68121ce49dc492f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\57c882e781de836b7691d5dfaea26a1d8c18bb1d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\d779353ba78a2f3617143efb34dc37343f32a474\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\3d540a212a5e98db990cb1278001ff48a8802bad\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Administrator\.android\build-cache\6dd8dcb9b3c640484fbb34ef78831e88e8603a8a\output\AndroidManifest.xml:26:9-47
